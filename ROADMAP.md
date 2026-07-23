@@ -6,8 +6,8 @@ Goal: Build the base of the book and implement simple linear structures from scr
 
 ### Foundations
 
-- [ ] Preface
-- [ ] Complexity analysis
+- [x] Preface
+- [x] Complexity analysis
 - [ ] Memory, pointers, and structs in C
 - [ ] Basic testing approach
 

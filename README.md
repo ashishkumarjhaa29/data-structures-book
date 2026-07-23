@@ -21,8 +21,8 @@ C++ STL notes may be added later for comparison.
 
 | Section | Status |
 |---|---|
-| Preface | Drafting |
-| Complexity Analysis | Drafting |
+| Preface | Complete |
+| Complexity Analysis | Complete |
 | Memory, Pointers, and Structs | Drafting |
 | Arrays | Not started |
 | Strings | Not started |
@@ -33,9 +33,15 @@ C++ STL notes may be added later for comparison.
 | Trees | Not started |
 | Graphs | Not started |
 
+## Reading Order
+
+1. [Preface](book/00-preface.md)
+2. [Complexity Analysis](book/01-complexity-analysis.md)
+
 ## Repository Structure
 
 ```txt
 book/       Written chapters
 code/       Implementations
 problems/   Practice problems and explanations
+```
