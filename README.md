@@ -24,6 +24,7 @@ C++ STL notes may be added later for comparison.
 | Preface | Complete |
 | Complexity Analysis | Complete |
 | Memory, Pointers, and Structs | Complete |
+| Testing C Data Structures | Complete |
 | Arrays | Not started |
 | Strings | Not started |
 | Linked Lists | Not started |
@@ -38,6 +39,7 @@ C++ STL notes may be added later for comparison.
 1. [Preface](book/00-preface.md)
 2. [Complexity Analysis](book/01-complexity-analysis.md)
 3. [Memory, Pointers, and Structs in C](book/02-memory-pointers-structs.md)
+4. [Testing C Data Structures](book/03-testing-c-data-structures.md)
 
 ## Repository Structure
 

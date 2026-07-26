@@ -9,7 +9,7 @@ Goal: Build the base of the book and implement simple linear structures from scr
 - [x] Preface
 - [x] Complexity analysis
 - [x] Memory, pointers, and structs in C
-- [ ] Basic testing approach
+- [x] Basic testing approach
 
 ### Linear Data Structures
 
