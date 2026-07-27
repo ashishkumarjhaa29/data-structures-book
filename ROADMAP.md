@@ -13,7 +13,7 @@ Goal: Build the base of the book and implement simple linear structures from scr
 
 ### Linear Data Structures
 
-- [ ] Arrays
+- [x] Arrays
 - [ ] Dynamic arrays
 - [ ] Strings
 - [ ] Singly linked lists
